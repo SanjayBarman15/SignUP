@@ -23,7 +23,7 @@ Technologies Used:
 
 Installation:
 1. Clone the repository:
-   git clone https://github.com/yourusername/signup.git
+   git clone https://github.com/SanjayBarman15/signup.git
 2. Navigate to the project directory:
    cd signup
 3. Install dependencies:
