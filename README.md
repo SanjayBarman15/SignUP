@@ -43,7 +43,9 @@ Usage:
    - Login Page: Log in with existing credentials or through Google OAuth.
 3. Upon successful authentication, users can access protected resources or features.
 
+# P2P Student Learning Platform
 
+```plaintext
 +--------------------------------------------------------+
 |                P2P Student Learning Platform           |
 +--------------------------------------------------------+
