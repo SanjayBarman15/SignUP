@@ -45,58 +45,56 @@ Usage:
 
 
 +--------------------------------------------------------+
-|                                                        |
-|                P2P Student Leading Platform            |
-|                                                        |
-+-------------------------------+------------------------+
+|                P2P Student Learning Platform           |
++--------------------------------------------------------+
                                 |
                                 v
-+-------------------------------+------------------------+
-|              1. User Registration                       |
-|   - Users sign up and create their profiles.            |
-|   - User information is stored securely on the          |
-|     blockchain.                                         |
-+-------------------------------+------------------------+
++--------------------------------------------------------+
+|  1. User Registration                                   |
+|  - Users sign up and create their profiles.            |
+|  - User information is stored securely on the          |
+|    blockchain.                                         |
++--------------------------------------------------------+
                                 |
                                 v
-+-------------------------------+------------------------+
-|              2. Group Creation/Joining                  |
-|   - Registered users can create or join study groups.   |
-|   - Smart contracts manage the creation and membership  |
-|     of groups.                                          |
-+-------------------------------+------------------------+
++--------------------------------------------------------+
+|  2. Group Creation/Joining                             |
+|  - Registered users can create or join study groups.   |
+|  - Smart contracts manage group creation and           |
+|    membership.                                         |
++--------------------------------------------------------+
                                 |
                                 v
-+-------------------------------+------------------------+
-|              3. Participation Tracking                  |
-|   - User activities and participation are tracked.      |
-|   - Blockchain ensures transparency and immutability.   |
-+-------------------------------+------------------------+
++--------------------------------------------------------+
+|  3. Participation Tracking                              |
+|  - User activities and participation are tracked.      |
+|  - Blockchain ensures transparency and immutability.   |
++--------------------------------------------------------+
                                 |
                                 v
-+-------------------------------+------------------------+
-|              4. Learning & Collaboration                |
-|   - Users collaborate and share knowledge within groups.|
-|   - Platform promotes peer-to-peer learning.            |
-+-------------------------------+------------------------+
++--------------------------------------------------------+
+|  4. Learning & Collaboration                            |
+|  - Users collaborate and share knowledge within groups.|
+|  - Platform promotes peer-to-peer learning.            |
++--------------------------------------------------------+
                                 |
                                 v
-+-------------------------------+------------------------+
-|              5. Reputation & Rewards                    |
-|   - A reputation system incentivizes active participation|
-|   - AI integration for personalized learning.           |
-+-------------------------------+------------------------+
++--------------------------------------------------------+
+|  5. Reputation & Rewards                                |
+|  - Reputation system incentivizes active participation.|
+|  - AI integration for personalized learning.           |
++--------------------------------------------------------+
                                 |
                                 v
-+-------------------------------+------------------------+
-|              6. Future Scope & Expansion                |
-|   - Mobile apps, global expansion, enhanced security.   |
-|   - Continuous improvement and feature enhancements.    |
-+-------------------------------+------------------------+
++--------------------------------------------------------+
+|  6. Future Scope & Expansion                            |
+|  - Mobile apps, global expansion, enhanced security.   |
+|  - Continuous improvement and feature enhancements.    |
++--------------------------------------------------------+
                                 |
                                 v
-+-------------------------------+------------------------+
-|              7. Support & Contact Information           |
-|   - Users can reach out for support via email or phone. |
-|   - Platform continuously updates through the website.  |
++--------------------------------------------------------+
+|  7. Support & Contact Information                       |
+|  - Users can reach out for support via email or phone. |
+|  - Platform continuously updates through the website.  |
 +--------------------------------------------------------+
